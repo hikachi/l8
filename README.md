@@ -1,7 +1,7 @@
 Uruchamiamy komenda 
-docker compose -f docker-compose2.uml
+docker compose -f docker-compose2.yml up
 lub
-docker compose -f docker-compose.uml
+docker compose -f docker-compose.yml up
 
 
 Pliki dodane:
