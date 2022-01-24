@@ -44,4 +44,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: 97270/app:latest
+          tags: 97270/fullstacknr1z1:latest
